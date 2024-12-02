@@ -1,7 +1,7 @@
 # Web Scrapping Project
 
 ## Developed by
-- [@Rafaqfg](https://www.linkedin.com/in/rafaelqfg/)
+- [@thisAbdu](https://www.linkedin.com/in/abdulfetah-yi-abduljelil-893876203/)
 ## Description
 - In this project I created a python script to scrap technologies news from the [Trybe's blog](https://blog.betrybe.com/) .
 
@@ -10,11 +10,11 @@ Development: Python, Docker, pymongo, beautifulsoup4 and MongoDB. <br>
 ## How to run the application with Docker (you need have already docker-compose installed in your machine)<br>
 Clone the repository
 ```bash
-  git clone git@github.com:Rafaqfg/web-scraping-project-Python.git
+  git clone https://github.com/thisAbdU/News-scrapper-python.git
 ```
 Enter in the project folder
 ```bash
-  cd web-scraping-project-Python
+  cd News-scrapper-python
 ```
 Create and activate the virtual environment for the project
 ```bash
@@ -34,11 +34,7 @@ Run the menu.py file
 ```bash
    python3 tech_news/menu.py
 ```
-### Enjoy scrapping xD
-<br>
-📌 Note: All scrapped website is in portuguese, therefore you need to write your searches in portuguese.
 
-##
 
 ## Steps of development
 | description | finished |
@@ -58,4 +54,4 @@ Run the menu.py file
 | Implement the menu features | :heavy_check_mark:
 
 ## Gif of the application
-![](https://github.com/Rafaqfg/data-scraping-project-Python/blob/main/data_scrapping.gif)
+![](https://github.com/thisAbdu/News-scrapper-python/blob/main/data_scrapping.gif)
